@@ -13,7 +13,7 @@ export default defineConfig({
     ignoreHTTPSErrors: true,
     video: 'off',
     screenshot: 'off',
-    baseURL: 'https://vldapidev.spurams.com',
+    baseURL: '',
     trace: 'on-first-retry',
   },
   projects: [
