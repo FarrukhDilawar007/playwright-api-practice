@@ -5,10 +5,10 @@ test.describe("ValueLinkClient API", ()  => {
 
 test.describe.configure({ mode: 'serial' });
 
-//const baseURL = 'https://vldapidev.spurams.com'
+
 const ClientUserName = 'dennjones'
 const ClientUserPassword = 'dev.123'
-const IntegrationAccessKey = 'QwBsAGkAZQBuAHQAVQBSAEwAPQB2AGwAbABlAG4AZABlAHIAcwBwAHIAMQAuAHMAcAB1AHIAYQBtAHMALgBjAG8AbQB8ADcANABiADMAOAAxADkANgBkADUAOABmADQAMwA5AGMAOAA3ADMAYwAyAGEAMAAxADQAMgBjADQAYwAyAGIAMQA='
+const IntegrationAccessKey = ''
 var accessTokenAPI = ""
 var clientId = 0
 var appraisalId = 0
